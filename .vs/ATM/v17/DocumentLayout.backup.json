@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\unity\\my\\ATM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|D:\\unity\\my\\ATM\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|D:\\unity\\my\\ATM\\assets\\script\\ui\\popupbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\popupbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|d:\\unity\\my\\atm\\assets\\script\\ui\\popupbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\popupbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|d:\\unity\\my\\atm\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BEF503E-792D-A8AA-89A8-0EA3166F6C51}|Assembly-CSharp.csproj|D:\\unity\\my\\ATM\\assets\\script\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -34,31 +34,30 @@
               "RelativeToolTip": "Assets\\Script\\UserData.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:07:54.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T06:07:54.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\unity\\my\\ATM\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
-              "ToolTip": "D:\\unity\\my\\ATM\\Assets\\Script\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\unity\\my\\ATM\\Assets\\Script\\GameManager.cs*",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T06:35:21.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PopupBank.cs",
               "DocumentMoniker": "D:\\unity\\my\\ATM\\Assets\\Script\\UI\\PopupBank.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\PopupBank.cs",
               "ToolTip": "D:\\unity\\my\\ATM\\Assets\\Script\\UI\\PopupBank.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\PopupBank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T01:32:23.328Z",
               "EditorCaption": ""
